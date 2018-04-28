@@ -1,0 +1,4 @@
+celery==3.1.23
+Django==1.11.8
+django-redis==4.8.0
+redis==2.10.5
